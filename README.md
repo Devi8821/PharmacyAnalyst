@@ -1,87 +1,185 @@
-**🤔 Ever wondered how the pharmaceutical business actually works behind the scenes?**
+# 💊 Pharmacy Business Analytics Dashboard
 
-We often hear that healthcare and pharmaceutical industries are among the most resilient industries, even in the AI era.
+## 📌 Project Overview
 
+This project analyzes pharmacy sales performance to uncover business opportunities and profitability drivers across products, pharmacies, promotions, and geographic markets.
 
-**But what really drives their business?**
+Using Python for data preparation and Power BI for interactive visualization, the dashboard transforms transactional data into actionable insights that support strategic business decisions.
 
-💊 Best-selling products?
+---
 
-🏥 High-performing pharmacies?
+## 🎯 Business Objectives
 
-🌍 Strong-performing countries?
+- Analyze overall sales and profitability
+- Identify top-performing pharmacies and regions
+- Evaluate product performance and sales contribution
+- Measure promotion effectiveness
+- Discover factors affecting business profitability
+- Support data-driven decision making through interactive dashboards
 
-📢 Promotions?
+---
 
-To answer these questions, I built a Pharmacy Business Analytics Dashboard using Power BI. 
+## 🛠️ Tools & Technologies
 
-**And honestly, the findings surprised me.**
+- Python
+- Pandas
+- Jupyter Notebook
+- Power BI
+- DAX
+- Power Query
 
-📈 High revenue doesn't always mean high profit.
+---
 
-🏥 Pharmacies in the same region can perform very differently.
+## 📂 Dataset
 
-💊 Some products sell in high volumes but generate relatively low margins.
+Pharmacy Sales Dataset
 
-📢 Promotions increase sales, but they can also significantly reduce profitability.
+---
 
-**One insight that stood out to me:
+## 📈 Analysis Workflow
 
-**"More sales doesn't always mean more profit."****
+- Data Cleaning
+- Missing Value Assessment
+- Exploratory Data Analysis (EDA)
+- Revenue Analysis
+- Margin Analysis
+- Product Segmentation
+- Pharmacy Performance Analysis
+- Geographic Analysis
+- Promotion Effectiveness Analysis
+- Dashboard Development
 
-That's why analytics is not just about building dashboards.
-It's about helping businesses answer:
+---
 
-✅ What happened?
+# 📊 Business Questions
 
-✅ Why did it happen?
+- Which pharmacies generate the highest revenue and profit?
+- Which products contribute the most to business performance?
+- Which regions have the strongest sales performance?
+- Do promotional campaigns increase profitability?
+- What factors influence pharmacy business performance?
 
-✅ What should we do next?
+---
 
-**What I explored in this project**
+# 📈 Key Findings
 
-🌍 Geography Performance
+### 💰 Revenue vs Profitability
 
-🏥 Pharmacy Performance
+High revenue does **not always** translate into high profit.
 
-💊 Product Segmentation
+**Business Insight**
 
-📢 Promotion Effectiveness
+Business performance should be evaluated using both revenue and profit margin instead of sales volume alone.
 
-📈 Revenue & Margin Analysis
+---
 
-**Tools Used**
+### 🏥 Pharmacy Performance
 
-📓 Jupyter Notebook
+Pharmacies operating in the same region show significantly different business performance.
 
-🐍 Python & Pandas
+**Business Insight**
 
-📊 Power BI
+Operational efficiency, product mix, and customer demand vary between locations.
 
-📈 DAX
+---
 
-🧠 Business Analytics Framework
+### 💊 Product Performance
 
-Before building the dashboard, I spent time understanding the data, investigating missing values, validating data quality, and exploring business patterns instead of simply removing problematic records.
+Some products generate high sales volume but contribute relatively low profit margins.
 
-I'd love to hear from professionals who have worked on healthcare, pharmacy, or retail analytics projects.
+**Business Insight**
 
-💬 What insights would you explore next?
+Product strategy should balance sales volume with profitability.
 
-💬 Which KPIs matter most in the pharmaceutical industry?
+---
 
-Feel free to share your thoughts in the comments.
+### 📢 Promotion Effectiveness
 
-I am continuously learning, building my portfolio, and improving my skills in Data Analytics, Business Analytics, and Marketing Analytics.
+Promotional campaigns successfully increase sales volume but may reduce overall profit margins.
 
-Always open to discussions, collaborations, and opportunities to grow in the analytics field. 🚀
+**Business Insight**
 
-📧 dauliaoktaviona@gmail.com
+Promotions should be evaluated based on profitability, not revenue alone.
 
-💼 https://lnkd.in/ghisx9pR
+---
 
-🔰 https://lnkd.in/gGUkS6mM
+### 🌍 Geographic Performance
 
-Happy to connect with you all 🙌
+Sales performance differs across countries and regions, revealing opportunities for market expansion and localized business strategies.
 
-#PowerBI #DataAnalytics #BusinessAnalytics #PharmacyAnalytics #HealthcareAnalytics #MarketAnalyst #DataVisualization #DashboardDesign #BusinessIntelligence #DAX #JupyterNotebook #Python #DataStorytelling #OpenToWork #Freelance #Remote
+---
+
+# 💡 Business Recommendations
+
+- Prioritize high-margin products alongside high-volume products.
+- Evaluate promotional campaigns using profit-based KPIs.
+- Replicate best practices from top-performing pharmacies.
+- Develop region-specific sales and marketing strategies.
+- Monitor profitability through interactive dashboards for continuous performance improvement.
+
+---
+
+## 📊 Dashboard Features
+
+- Executive KPI Dashboard
+- Revenue & Margin Analysis
+- Pharmacy Performance
+- Product Analysis
+- Promotion Analysis
+- Geographic Performance
+- Interactive Filters
+
+---
+
+## 🧠 Data Challenges
+
+Before developing the dashboard, the dataset underwent extensive validation and preparation, including:
+
+- Missing value assessment
+- Data quality validation
+- Business rule verification
+- Exploratory Data Analysis
+- Feature preparation for dashboard reporting
+
+Rather than simply removing incomplete records, the analysis focused on understanding why data quality issues occurred and how they might affect business decisions.
+
+---
+
+## 📁 Repository Structure
+
+```
+├── Dataset
+├── Jupyter Notebook
+├── Power BI Dashboard (.pbix)
+├── Images
+├── Documentation
+└── README.md
+```
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+- Power BI
+- DAX
+- Data Modeling
+- KPI Development
+- Dashboard Design
+- Data Visualization
+- Profitability Analysis
+- Business Storytelling
+
+---
+
+## 👩‍💻 Author
+
+**Devi Aulia Oktaviona**
+
+🔗 LinkedIn: https://linkedin.com/in/dauliaoktaviona
+
+---
+
+> **Transforming pharmacy sales data into actionable insights that support smarter business decisions and sustainable growth.**
